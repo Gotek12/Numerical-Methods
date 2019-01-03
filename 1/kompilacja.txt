@@ -1,0 +1,2 @@
+g++ mian.cpp -L/home/wojciech/gsl/lib -I/home/wojciech/gsl/include -lgsl -lgslcblas -lm
+
