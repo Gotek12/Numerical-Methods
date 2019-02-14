@@ -1,0 +1,4 @@
+g++ mian.cpp -L/home/wojciech/gsl/lib -I/home/wojciech/gsl/include -lgsl -lgslcblas -lm
+
+g++ -o new new.cpp -L/home/gojtek/gsl/lib -I/home/gojtek/gsl/include -lgsl -lgslcblas -lm
+g++ -o ex ex.cpp -L/home/gojtek/gsl/lib -I/home/gojtek/gsl/include -lgsl -lgslcblas -lm
